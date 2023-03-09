@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kxpotenciano
-- 👀 I’m interested in games
-- 🌱 I’m currently learning comsci
+- 👋 Hi, I’m Kirk Xavier A. Potenciano
+- 👀 I’m interested in Coding, Programming, and Web Development
+- 🌱 I’m currently learning Computer Science wit Specialization in Software Engineering in iAcademy
 
 
 <!---
