@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Kirk Xavier A. Potenciano
-- 👀 I’m interested in Coding, Programming, and Web Development
-- 🌱 I’m currently learning Computer Science wit Specialization in Software Engineering in iAcademy
-
-
-<!---
-kxpotenciano/kxpotenciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science graduate from iAcademy. I am a dynamic individual known for my ability to rapidly grasp new concepts and adapt to changing situations. My work style is characterized by efficiency and speed, allowing me to deliver high-quality results within tight deadlines.  As a great communicator, I excel in conveying ideas and collaborating with team members. Finally, my perfectionist nature drives me to consistently strive for excellence in all aspects of my work.
